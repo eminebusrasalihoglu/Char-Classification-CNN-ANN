@@ -1,4 +1,4 @@
-# CharacterClassificationWithCNNANN
+# Character Classification with CNN and ANN
 
 ![image](https://github.com/eminebusrasalihoglu/CharacterClassificationWithCNNANN/assets/58669314/f681acfa-541c-430d-8140-0e217391aeff)
 ### Figure 1: Data Set
